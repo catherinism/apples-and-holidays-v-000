@@ -62,7 +62,7 @@ def all_supplies_in_holidays(holiday_hash)
   # etc.
 holiday_hash[:winter].to_s
 
-  binding.pry
+  
 
 
 end
